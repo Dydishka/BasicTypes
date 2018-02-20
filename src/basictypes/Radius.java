@@ -13,9 +13,9 @@ public class Radius {
         if (a >= b) z = a;
         else z = b;
         if (2 * r >= z) {
-            System.out.println("Прямоугольник полность закрыт кругом с радиусом "+ r );
+            System.out.println("Прямоугольник полность закрыт кругом с радиусом " + r);
         } else {
-            System.out.println("Прямоугольник не закрыт кругом с радиусом "+ r );
+            System.out.println("Прямоугольник не закрыт кругом с радиусом " + r);
         }
     }
 }
