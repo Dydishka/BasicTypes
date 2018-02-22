@@ -1,4 +1,4 @@
-echo javac Radius.java  
-echo java Radius
+javac Radius.java  
+java Radius
 
 pause

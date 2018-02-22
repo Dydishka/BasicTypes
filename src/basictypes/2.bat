@@ -1,4 +1,4 @@
-echo javac Seven.java  
-echo java Seven
+javac Seven.java  
+java Seven
 
 pause

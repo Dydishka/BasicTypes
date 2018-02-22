@@ -1,5 +1,4 @@
-
-echo javac Hello.java  
-echo java Hello
+javac Hello.java  
+java Hello
 
 pause

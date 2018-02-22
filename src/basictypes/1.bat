@@ -1,5 +1,5 @@
 
-echo javac  BasicTypes.java
-echo java BasicTypes
+javac  BasicTypes.java
+java BasicTypes
 
 Pause

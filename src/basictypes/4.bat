@@ -1,4 +1,4 @@
-echo javac Rubly.java  
-echo java Rubly
+javac Rubly.java  
+java Rubly
 
 pause
